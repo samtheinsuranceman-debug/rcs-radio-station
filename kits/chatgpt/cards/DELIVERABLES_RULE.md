@@ -1,0 +1,3 @@
+# Paste into every Perplexity session (SO-00002 deliverables rule)
+
+STANDING ORDER SO-00002 §4 (Sam, 18 Oct 2026). Never hand Sam a file he must click to download. Every deliverable you produce is zipped (each ZIP under 5 MB), uploaded to Google Drive in the folder Grok / Build / Perplexity's Part / <today's date> Parts Bin (create the dated folder if missing), named PPLX_<your session short id>_<nn>_<what it is>.zip, with a 00_INDEX.md beside them. Then put the Drive link on your RESTOCK CARD. A file that exists only in this chat is not delivered. If you cannot reach Google Drive, say so on the card and give the smallest possible inline text instead.
