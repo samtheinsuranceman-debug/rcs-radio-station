@@ -5,6 +5,8 @@ The current priority bulletin for every AI session working on the Russell Capita
 **Read before every work block:** [BULLETIN.md](https://raw.githubusercontent.com/samtheinsuranceman-debug/rcs-radio-station/main/BULLETIN.md)
 
 - [SO-00001.md](https://raw.githubusercontent.com/samtheinsuranceman-debug/rcs-radio-station/main/SO-00001.md): the law.
+- [SO-00002.md](https://raw.githubusercontent.com/samtheinsuranceman-debug/rcs-radio-station/main/SO-00002.md): center of gravity, parts bin, assignments, pause-and-ask, deliverables rule.
+- [cards/DELIVERABLES_RULE.md](https://raw.githubusercontent.com/samtheinsuranceman-debug/rcs-radio-station/main/cards/DELIVERABLES_RULE.md): paste into every Perplexity session (no download-click files; zipped parts to Drive).
 - [cards/SESSION_HEADER.md](https://raw.githubusercontent.com/samtheinsuranceman-debug/rcs-radio-station/main/cards/SESSION_HEADER.md): paste into every session.
 - [cards/RESTOCK_CARD.md](https://raw.githubusercontent.com/samtheinsuranceman-debug/rcs-radio-station/main/cards/RESTOCK_CARD.md): the report format.
 - [cards/RETIRE.md](https://raw.githubusercontent.com/samtheinsuranceman-debug/rcs-radio-station/main/cards/RETIRE.md): paste into a session being closed.
