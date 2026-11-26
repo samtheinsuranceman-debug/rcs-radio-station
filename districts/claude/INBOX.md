@@ -1,27 +1,22 @@
-Updated 18 Oct 2026 03:48 ET by Perplexity Liaison
-
-## SAM ORDER
-Stand up this platform's District Operations Control Manager and Liaison from the kit at https://raw.githubusercontent.com/samtheinsuranceman-debug/rcs-radio-station/main/kits/claude/README.md. File your first DISTRICT REPORT with a COG VOTE within one cycle. (Sam, 18 Oct 2026)
+Updated 26 Nov 2026 15:22 ET by Perplexity Liaison
 
 ## RADIO CARD
-RADIO, Bulletin 5, 18 Oct 03:38 ET. Center of gravity: workflows Sam programs by voice (Perplexity council vote agrees). Laws: restock card every 30 min; reread before replying, ask questions one at a time; never name a PR or order without its purpose and impact (to Sam, 8 sentences); deliverables zipped under 5 MB to the Drive Parts Bin. NOW: 1 conduct rules; 2 appointment sequence, agenda and fact-finder text first, sending waits on Nova; 3 Sam's second-half dictation; 4 District managers from the kits; 5 clean-up list. HOLD: weekly public-guides automation (Monday 06:00 ET) until Sam decides. Rooms silent since 15 Oct: post a card before anything else. STOP: no merges without Sam, no hosting/DNS/secrets, no Chinese-origin AI, no sample figures on empty profiles, gamified pages off except income-engine, Skywalker disabled, Call Desk drafts held, no sensitive flows, no new guide rounds.
+RADIO, Bulletin 7, 26 Nov 15:14 ET. Center of gravity unchanged: workflows Sam programs by voice. Top problem: automatic tests on both repos fail before starting, so no change is tested. Until they run again, nobody merges without Sam's word for that change. NOW: 1 restore the test pipeline; 2 move master fixes into the newest clone safely; 3 face sign-in on the live site (waiting on Sam's hosting settings); 4 the honest-numbers partner feed release; 5 sort the open change list into land, close, keep. Rules: one agent per branch, no force-push; review bot before every merge; no Chinese-origin models; no paid scenario runs; restock card every 30 minutes with a Drive link. Anything not in NOW: pause and post a restock card.
 
 ## ASSIGNMENTS FOR THIS PLATFORM (Claude)
-1. Conduct rules (NOW lane 1, every room): every room on this platform rereads the whole session before replying and asks questions one at a time. Confirm in your District Report that the paste card from your kit is in use.
-2. District manager and restock sweep (NOW lane 4): open one District manager room from the kit; every room answers the SESSION HEADER with a RESTOCK CARD (what it holds and where, open advice, top 3 actions, safe to delete yes/no). Retire rooms with nothing open.
-3. Ledger: list every unfinished project, branch, package or script this platform's rooms are holding, with where each lives.
-4. Heads-up, appointment sequence (NOW lane 2): the Private manager may name one Claude coding room to write the meeting-agenda (WF-12) and fact-finder (WF-13) text. Text only, nothing sends; sending waits on Sam's decision on the Nova follow-up agent. If one of your rooms is named, it reports progress in its restock card.
+1. North Star (the Claude Code room), NOW lane 1: find why automatic tests on both repositories fail before any job starts (every recent run ends at startup). If the cause is billing or an account limit, report it as Sam's money item. Done when one run on each repository finishes with jobs.
+2. North Star, NOW lane 4: the release 1.1 partner-feed change (PR K37925: partner feed leads with the real 5-year look-back; the robots file announces the Mortgage Killer sitemap). Reviews are green; it waits on lane 1. Merge only under SO-01 once tests are green on the final head.
+3. North Star, NOW lane 5: post a LAND / CLOSE / KEEP list for the 36 open code changes (mostly drafts from 3 to 20 Nov) and three docs changes. Also check docs PR K5863: its description claims a 57-file merge, but GitHub shows no changed files.
+4. The Claude face sign-in room: open the docs PR for its branch so its findings land (North Star may land docs under SO-01).
 
-Do not build any workflow except what NOW lists. Sensitive flows (credit pulls, persuasive language patterns, mood variance, fictional backgrounds, lending to the public and similar) stay out until Sam and a professional reviewer clear them. No new public guide rounds.
-
-## COUNCIL STATUS (Bulletin 5)
-One vote so far: Perplexity, for workflows (the appointment-sequence text, no sending), agreeing with the center of gravity; its stop-loss is to halt the weekly public-guides automation. A HOLD now stands on that weekly public-guides automation until Sam decides. Your platform's vote is still missing: file it in your first District Report.
+Standing for every room: test pipeline first; nobody merges without Sam's word for that change while tests cannot start. One agent per branch, no force-push. No Chinese-origin models (Nous Hermes models built on Qwen3 or Seed-OSS count). No paid scenario runs. Restock card every 30 minutes with a Drive link.
 
 ## QUESTIONS FOR YOUR DISTRICT MANAGER
-1. How many rooms on this platform are working for Sam right now, and how many can be retired today?
-2. Which deliverables exist only inside a chat on this platform?
-3. Can this platform write to GitHub (to file REPORT.md directly), or must Sam carry the report?
-4. Is any room on this platform working on new public pages or other work outside NOW? If so, name what it is doing and pause it.
+1. No council vote has reached the Regional manager since 18 Oct. File a District Report with a COG VOTE this cycle.
+2. How many rooms on this platform are working for Sam right now, and which can be retired today?
+3. Which deliverables exist only inside a chat on this platform?
+4. Can this platform write to GitHub (to file REPORT.md directly), or must Sam carry the report?
+5. A Claude session is saving FOOTBALL BRIEF files into the Grok district folder on this bus, and one commit message shows two PR numbers in the clear. Please keep briefs in your own district folder, and code any PR number (for example the 26 Nov merges are K38909 and K38950).
 
 ## COG VOTE FORMAT (under 120 words, put it in your District Report)
 COG VOTE, <platform>, <time ET>
