@@ -8,11 +8,11 @@
 - **5 Nov 2026, 10:19 ET, instruct all:** the 00 Architects open-source expedition (5–8 Nov), read-only scouting, items accepted only above 17.8 of 20, hourly returns to the private Inbox, no installs, merges or deploys. The event window has closed; its parts list is the Black Friday parts-list docs PR K4920.
 - The orders of 18 Oct (SO-00001 to SO-00004, the description-always law, SO-000 the plain-English rule) stand as written in Bulletin 6.
 
-# Bulletin 7, Thursday 26 Nov 2026, 15:14 Eastern
-Code repo: last merge was the physician-tools PR K38950 (26 Nov). Docs repo: last merge was the stranded-team-records PR K5740 (21 Nov). The private bulletin had gone 39 days without an update; any Bulletin 6 line that conflicts with this one is void.
+# Bulletin 8, Thursday 26 Nov 2026, 15:27 Eastern
+Code repo: last merge was the physician-tools PR K38950 (26 Nov). Docs repo: last merge was the stranded-team-records PR K5740 (21 Nov). Any Bulletin 6 line that conflicts with this one is void. The Bulletin 7 (15:14 ET) HOLD on the test pipeline still stands.
 
 ## CENTER OF GRAVITY
-Automated workflows Sam programs once by voice (SO-00002), unchanged. Practical gravity this week: a working test pipeline, because every automatic check on both repos fails to start. No council votes received since 18 Oct. Sam override: none.
+Automated workflows Sam programs once by voice (SO-00002), unchanged. Practical gravity this week: a working test pipeline, because every automatic check on both repos fails to start. Council: Perplexity voted 15:24 ET for NOW 1 (restore the test pipeline); ChatGPT's vote, relayed 15:23 ET, is dated 18 Oct (workflows, appointment-sequence text) and predates the outage. No dissent on NOW 1. Sam override: none.
 
 ## NOW (ranked)
 1. **Get the test pipeline running again.** Goal: GitHub Actions starts jobs again on both repos; the last 100 runs on each failed at startup with zero jobs (seen since at least 9 Nov; the latest code-repo run says it "likely failed because of a workflow file issue"). Owner: North Star (Claude Code room) reads one failed run's notes and the workflow files; if the cause is billing or an account limit, it becomes Sam's money item. Done when: one run on each repo's main branch finishes with jobs. Velocity: not started. **HOLD below.**
@@ -27,6 +27,9 @@ Automated workflows Sam programs once by voice (SO-00002), unchanged. Practical 
 - **Claude Nous / face-sign-in room:** open the docs PR for its branch (SO-01 lets North Star land docs).
 - **Alfred (Regional Manager seat, other platform) and TED:** keep the SLOOS notes; post Drive links. Alfred's "Sam merges" line is superseded by SO-01.
 - **Grok, Gemini and Perplexity rooms:** 30 tasks from the 1 Nov cross-platform task batch (XPLAT batch A) remain unacknowledged with no return ZIP (9 Nov checkpoint). Each room picks them up or marks them DROP by the next bulletin.
+- **The Perplexity citation-corrections room (PR K29356, the last Perplexity branch, 31 Oct):** acknowledge the Perplexity packet (R11, R09) on dispatch issue K4141 with your session id and starting point, or post DROP; read-and-cite work, ZIP to the Perplexity intake folder in Drive, PR only after NOW 1 is green.
+- **The Perplexity public-guides room:** post a card confirming the weekly guides automation is kept or paused.
+- **ChatGPT Liaison:** send a current (26 Nov) report; the 15:23 ET relay carried an 18 Oct report. The Nova follow-up (PR K23534) is merged code; no client message sending is authorized or verified.
 
 ## PARTS BIN
 Not read this run: Drive access failed with an authorization error. Last verified link from a room: the ChatGPT evidence ZIP of 9 Nov in the Parts Bin folder in Drive. Rooms without a Drive link this cycle: Alfred, Brain Hub, and the Nous / face-sign-in room (branch only, which is acceptable for docs).
@@ -65,10 +68,10 @@ Not read this run: Drive access failed with an authorization error. Last verifie
 - The nested-workflow-architect skill branch (3 Nov): LAND as a docs PR.
 
 ## SAFE TO DELETE
-Rooms: Claude nested-workflow spec (3 Nov), ChatGPT reconciliation (9 Nov), Claude Nous / face sign-in (26 Nov), Alfred 3 Nov session, Thomas runtime room (28 Oct). Not safe: Brain Hub (it watches issue K31037).
+Rooms: the Perplexity manager-builder session, Claude nested-workflow spec (3 Nov), ChatGPT reconciliation (9 Nov), Claude Nous / face sign-in (26 Nov), Alfred 3 Nov session, Thomas runtime room (28 Oct). Not safe: Brain Hub (it watches issue K31037).
 
 ## INBOX LOG
-Read since Bulletin 6: 33 cards on the private Inbox (18 Oct to 26 Nov), private canon changes (SO-29, SO-03A, SO-01 twice, SO-30), and the instruct-all order of 5 Nov. Flagged stale: 30 cross-platform tasks with no acknowledgement; the Grok handoff (18 Oct) with no reply. Flagged conflicting: hosting of the live site (the audit PR versus the hosting record); Alfred's "Sam merges" versus SO-01.
+Read since Bulletin 6: 33 cards on the private Inbox (18 Oct to 26 Nov), private canon changes (SO-29, SO-03A, SO-01 twice, SO-30), and the instruct-all order of 5 Nov. Since Bulletin 7: VIA LIAISON ChatGPT (15:23 ET, carries an 18 Oct report, flagged stale), DISTRICT REPORT Perplexity (15:24 ET, vote for NOW 1). Flagged stale: the ChatGPT Liaison relay; the Perplexity v5.x packages, Skywalker, full-backup and Call Desk drafts rooms (no card since 15 Oct); 30 cross-platform tasks with no acknowledgement; the Grok handoff (18 Oct) with no reply. Flagged conflicting: hosting of the live site (the audit PR versus the hosting record); Alfred's "Sam merges" versus SO-01.
 
 ## RADIO CARD (paste into any room)
-RADIO, Bulletin 7, 26 Nov 15:14 ET. Center of gravity unchanged: workflows Sam programs by voice. Top problem: automatic tests on both repos fail before starting, so no change is tested. Until they run again, nobody merges without Sam's word for that change. NOW: 1 restore the test pipeline; 2 move main-branch fixes into the newest clone safely; 3 face sign-in on the live site (waiting on Sam's hosting settings); 4 the honest-numbers partner feed release; 5 sort the open change list into land, close, keep. Rules: one agent per branch, no force-push; review bot before every merge; no Chinese-origin models; no paid scenario runs; restock card every 30 minutes with a Drive link. Anything not in NOW: pause and post a restock card.
+RADIO, Bulletin 8, 26 Nov 15:27 ET. Center of gravity unchanged: workflows Sam programs by voice. Top problem: automatic tests on both repos fail before starting, so no change is tested. Until they run again, nobody merges without Sam's word for that change. NOW: 1 restore the test pipeline; 2 move main-branch fixes into the newest clone safely; 3 face sign-in on the live site (waiting on Sam's hosting settings); 4 the honest-numbers partner feed release; 5 sort the open change list into land, close, keep. Rules: one agent per branch, no force-push; review bot before every merge; no Chinese-origin models; no paid scenario runs; restock card every 30 minutes with a Drive link. Anything not in NOW: pause and post a restock card.
